@@ -1,0 +1,19 @@
+.header {
+  background-color: #3005f1;
+  padding: 10px;
+  text-align: center;
+}
+
+.header a {
+  color: white;
+  padding: 10px 10px;
+  text-decoration: none;
+  transition: 1s;
+  padding-bottom: 0px;
+}
+
+.header a:hover {
+  text-decoration: underline;
+  opacity: 0.5;
+ 
+}
